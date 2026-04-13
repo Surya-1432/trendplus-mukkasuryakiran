@@ -1,0 +1,61 @@
+# TrendPulse Project 🚀
+
+## 📌 Overview
+TrendPulse is a Python-based data pipeline project that collects trending stories from the HackerNews API, processes the data, analyzes trends, and visualizes insights.
+
+---
+
+## 🔧 Tasks Completed
+
+### 🟢 Task 1 — Data Collection
+- Fetched top stories using HackerNews API
+- Categorized stories into 5 categories:
+  Technology, World News, Sports, Science, Entertainment
+- Saved data as JSON file
+
+---
+
+### 🟡 Task 2 — Data Cleaning
+- Removed duplicates and missing values
+- Converted JSON data into CSV format using Pandas
+
+---
+
+### 🔵 Task 3 — Data Analysis
+- Identified top trending category
+- Calculated average scores
+- Found most commented and highest scored stories
+
+---
+
+### 📊 Task 4 — Visualization
+- Created bar charts and pie charts using Matplotlib
+- Visualized category distribution and top authors
+
+---
+
+## 📁 Project Files
+
+- task1_data_collection.py
+- task2_data_cleaning.py
+- task3_analysis.py
+- task4_visualization.py
+
+---
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Requests
+
+---
+
+## 🎯 Conclusion
+This project demonstrates a complete data pipeline from data collection to visualization, helping understand trending topics and user engagement.
+
+---
+
+## 👤 Author
+Mukka Surya kiran
