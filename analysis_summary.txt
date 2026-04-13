@@ -1,0 +1,32 @@
+TrendPulse Analysis Summary
+===========================
+
+Total Records: 71
+
+Stories per category:
+category
+technology    25
+worldnews     25
+sports        21
+Name: count, dtype: int64
+
+Top Category: technology
+
+Average score per category:
+category
+sports        239.095238
+technology    220.320000
+worldnews     116.640000
+Name: score, dtype: float64
+
+Top Authors:
+author
+surprisetalk      4
+speckx            2
+JumpCrisscross    2
+burnt-resistor    1
+RohanAdwankar     1
+Name: count, dtype: int64
+
+Median Score: 101.0
+Std Deviation: 276.8299035095159
